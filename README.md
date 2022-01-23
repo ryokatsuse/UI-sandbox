@@ -1,2 +1,2 @@
-# UI-sandbox
+# ui-sandbox
 HTMLとCSSとJavaScriptだけで作るUIコンポーネントのサンドボックス環境
